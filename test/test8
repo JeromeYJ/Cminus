@@ -1,0 +1,5 @@
+int main()
+{
+	int a=027;
+	int b=0x1a;
+}

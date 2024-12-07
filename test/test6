@@ -1,0 +1,5 @@
+struct test6
+{
+	int a;
+	float b;
+};
